@@ -2,7 +2,7 @@
 
 <center>
 
-![store](assets/img/steps.png)
+![steps](assets/img/steps.png)
 
 </center>
 
