@@ -2,10 +2,10 @@
 
 | Redux   |      RTK      |
 |----------|:-------------:|
-| ![initialState](assets/img/initialState.png) |  ![createSlice](assets/img/createslice.png) |
-| Must provide the initial state <br> ![line](assets/img/initialState_line.png) |    Can't forget in Redux toolkit <br> ![rtk-initialState](assets/img/rtk-initialState.png)  |
+| ![initialState](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/initialState.png) |  ![createSlice](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/createslice.png) |
+| Must provide the initial state <br> ![line](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/initialState_line.png) |    Can't forget in Redux toolkit <br> ![rtk-initialState](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/rtk-initialState.png)  |
 |Must provide the default case| No default case|
-| Use string literals or constants <br> ![](assets/img/constants.png) | Can optionally prepare action <br> ![](assets/img/action.png) |
+| Use string literals or constants <br> ![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/constants.png) | Can optionally prepare action <br> ![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/action.png) |
 | [[Immutably]] update the state | Uses **[[Immer]]** to allow you to write 'mutable' state logic
 
 

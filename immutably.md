@@ -2,7 +2,7 @@
 
 <center>
 
-![](assets/img/immutably.png)
+![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/immutably.png)
 
 </center>
 

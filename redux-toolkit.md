@@ -1,5 +1,5 @@
 # Redux Toolkit
-![Redux](assets/img/download.png)
+![Redux](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/download.png)
 
 ### Installation
 ```npx create-react-app my-app --template redux```
@@ -17,23 +17,23 @@ A helper function for defining a Redux action type and creator.
 
 The usual way to define an action in Redux is to separately declare an action type constant and an action creator function for constructing actions of that type.
 
-![](assets/img/createActions.png)
+![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/createActions.png)
 
 ### ```createReducer()```
 A utility that simplifies creating Redux reducer functions, by defining them as lookup tables of functions to handle each action type. It also allows you to drastically simplify immutable update logic, by writing "mutative" code inside your reducers.
-![](assets/img/useRed.png)
+![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/useRed.png)
 
 Redux reducers are often implemented using a switch statement, with one case for every handled action type.
 
-![](assets/img/useReducer.png)
+![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/useReducer.png)
 
 ### ```createSlice()```
 A function that accepts an initial state, an object full of reducer functions, and a "slice name", and automatically generates action creators and action types that correspond to the reducers and state.
-![](assets/img/createslice.png)
+![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/createslice.png)
 ### ```createAsyncThunk()```
 A function that accepts a Redux action type string and a callback function that should return a promise. It generates promise lifecycle action types based on the action type prefix that you pass in, and returns a thunk action creator that will run the promise callback and dispatch the lifecycle actions based on the returned promise.
 
-![](assets/img/asyncthunk.png)
+![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/asyncthunk.png)
 <br>
 
 [[Dependencies Involved]]

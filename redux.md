@@ -1,10 +1,10 @@
 # Redux
 #### The old way
-![store](assets/img/store.png)
+![store](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/store.png)
 
 [[Steps]]
 
-![workflow](assets/img/redux-workflow.png)
+![workflow](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/redux-workflow.png)
 
 [[Comparision]]
 

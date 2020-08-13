@@ -2,7 +2,7 @@
 
 <center>
 
-![steps](assets/img/steps.png)
+![steps](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/steps.png)
 
 </center>
 

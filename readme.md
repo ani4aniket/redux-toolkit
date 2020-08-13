@@ -3,7 +3,7 @@
 
 <center>
 
-![Redux](assets/img/download.png)
+![](https://raw.githubusercontent.com/ani4aniket/redux-toolkit/master/assets/img/download.png)
 
 </center>
 
